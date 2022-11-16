@@ -1,5 +1,3 @@
-const num1 = 49;
-const num2 = 7;
 
 const GCD = require("./gcd").GCD;
 
